@@ -165,5 +165,12 @@
             "live": true,
             "authors" : ["FNJPNews#1234"]
         }
+        {
+            "name": "عربي",
+            "code": "ar",
+            "flag": "sa",
+            "live": true,
+            "authors" : ["BF8#1858"]
+        }
     ]
 }
